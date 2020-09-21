@@ -1,1 +1,1 @@
-# 0x08. Palindrome integer
+## Specializations - Interview Preparation ― Algorithms
